@@ -72,7 +72,7 @@ p{
   width: 24vw;
   float: left;
 }
-.två{
+.tva{
   width: 24vw;
   float: left;
   padding-bottom: 30px;
@@ -80,30 +80,30 @@ p{
 
 /*mindre rubrik följd utav information om respektive säsonger*/
 
-.säsong{
+.sasong{
   text-align: center;
   font-size: 50px;
   color:#ff751a;
 }
-.säsong1{
+.sasong1{
   text-align: center;
   font-size: 40px;
   color:#ff751a;
   text-decoration: underline;
 }
-.säsong2{
+.sasong2{
   text-align: center;
   font-size: 40px;
   color:#ff751a;
   text-decoration: underline;
 }
-.säsong3{
+.sasong3{
   text-align: center;
   font-size: 40px;
   color:#ff751a;
   text-decoration: underline;
 }
-.säsong4{
+.sasong4{
   text-align: center;
   font-size: 40px;
   color:#ff751a;
